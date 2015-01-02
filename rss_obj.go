@@ -13,6 +13,7 @@ package helper
 https://github.com/mjibson/goread/blob/master/goapp/rss/rss.go
 */
 
+/**
 type Rss struct {
 	XMLName string `xml:"rss"`
 
@@ -172,3 +173,4 @@ type Image struct {
 	// of 0. The field value should be treated as having a value of DefaultHeight
 	Height string `xml:"height,omitempty"`
 }
+*/

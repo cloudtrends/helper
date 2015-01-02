@@ -1,5 +1,6 @@
 package helper
 
+/**
 import (
 	"bytes"
 	"compress/gzip"
@@ -203,3 +204,5 @@ type Log struct {
 	//Parent *datastore.Key `datastore:"-" goon:"parent"`
 	Text string `datastore:"t,noindex"`
 }
+
+*/
